@@ -1,0 +1,30 @@
+name,pointnetpp_4c
+validation_miou,0.6939161095192762
+test_miou,0.5062747247110714
+Biou,0.9188282752578909
+Fiou,0.09372117509791399
+time_complexicity(ms),567.4754545454546
+storage_complexicity,30159360.0
+number_channel,4
+Date,Mon May 11 00:58:33 2020
+Training-Validation-Testing,0.7-0.9-1
+test_loss,0.0
+OA,0.9193650677258318
+Hard,0.4908115912778796
+Moderate,0.49129199774569066
+Easy,0.538535871742465
+multiPeople,0.50733847437208
+singlePerson,0.505177579400502
+Hard_Caffe_multiPeople,0.4842609587311745
+Hard_Caffe_singlePerson,0.46594794207450113
+Hard_L-Channel_multiPeople,0.4895573289536718
+Hard_L-Channel_singlePerson,0.5169966449608674
+Moderate_office_multiPeople,0.5341530704676215
+Moderate_office_singlePerson,0.5247709575295448
+Moderate_Study Hub_multiPeople,0.4471369208395481
+Moderate_Study Hub_singlePerson,0.454474655741995
+Easy_Channel_singlePerson,0.46385500087309134
+Easy_Channel_multiPeople,0.4936789896404534
+Easy_Lab center_multiPeople,0.5889169395859561
+Easy_Lab center_singlePerson,0.5838183320280331
+para,
